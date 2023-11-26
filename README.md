@@ -1,7 +1,7 @@
 # linkit
 
 ![Main screen of link.it](/gh/mainscreen.png)
-<center>Shorten your links and track them easily with linkit</center>
+<div align="center">Shorten your links and track them easily with linkit</div>
 
 
 ## Developing
