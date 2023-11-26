@@ -1,6 +1,8 @@
 <script>
+	import Nav from '../components/nav.svelte';
 </script>
 
+<Nav />
 <div class="title-container">
 	<h1 class="title">
 		Shorten your links
